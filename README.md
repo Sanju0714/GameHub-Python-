@@ -1,5 +1,6 @@
 # GameHub-Python-
-GameHub, a Python Project featuring 5 games \n
+GameHub, a Python Project featuring 5 games
+
 *BMI Calculator - Body mass index calculator
 *Basic Quiz Game
 *Dice roll
