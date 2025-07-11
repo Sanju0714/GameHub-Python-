@@ -1,4 +1,4 @@
-# GameHub-Python-
+# GameHub – Python Console Game Collection
 GameHub, a Python Project featuring 5 games :-
 
 BMI Calculator - Body mass index calculator
