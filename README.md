@@ -7,6 +7,6 @@ Basic Quiz Game
 
 Dice roll
 
-Rock Paper SCissor Game
+Rock Paper Scissor Game
 
 Tic-Tac-Toe Game
